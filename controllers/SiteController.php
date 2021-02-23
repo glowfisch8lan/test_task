@@ -56,7 +56,7 @@ class SiteController extends Controller
     }
 
     /**
-     * Displays homepage.
+     * Отображает главную страницу с формой; Также принимает данные из формы и адресует в модель;
      *
      * @return string
      */
